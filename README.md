@@ -52,7 +52,7 @@ determinations at operating temperature (Table E).
 *	Table 1. Determination of logK, this table presents the balanced reactions 
 present and the coefficients of each equilibrium, Allows the calculation of the Delta G 
 by the coefficient of each species using the IF function, and finally, the 
-determination of the Delta G of each reaction Eq 9 and the log K (Eq 9)
+determination of the Delta G of each reaction Eq 7 and the log K (Eq 9)
 *	Table 2. The thermodynamic constants, heat capacity, enthalpy, entropy, and 
 Gibbs free energy for the species in the system are presented in the system. The 
 Cp is calculated with Eq 3, and the values of Delta H°(Eq 4), Delta S°(Eq 5), and Delta G°(Eq 6) for each species the value calculated in the “Calculations” Sheet is searched with the VLOOKUP function.
